@@ -1,0 +1,8 @@
+*.o
+calculator
+factorial
+factorial.exe
+debug
+debug.exe
+*.i
+*.s
